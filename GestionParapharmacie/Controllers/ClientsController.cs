@@ -9,6 +9,7 @@ using GestionParapharmacie.Models;
 
 namespace GestionParapharmacie.Controllers
 {
+    //comment test
     public class ClientsController : Controller
     {
         private readonly GestionPharmacieBdContext _context;
